@@ -1,0 +1,6 @@
+{
+  "name": "SD Campus 360",
+  "description": "One Smart Campus. One Connected Experience. AI-powered smart campus platform connecting students, faculty, facilities, and administration for SD College 2030.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
